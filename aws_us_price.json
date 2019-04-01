@@ -1,0 +1,2317 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSIoT",
+  "version" : "20180815181041",
+  "publicationDate" : "2018-08-15T18:10:41Z",
+  "products" : {
+    "ATPK68NV2RUEFYG6" : {
+      "sku" : "ATPK68NV2RUEFYG6",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Tokyo)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APN1-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "W5PR5YXF5YC2AG9N" : {
+      "sku" : "W5PR5YXF5YC2AG9N",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Sydney)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS2-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "4PUBUR4EWBS4RZHZ" : {
+      "sku" : "4PUBUR4EWBS4RZHZ",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (Ohio)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE2-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "DW2BG8R9AST7K4SC" : {
+      "sku" : "DW2BG8R9AST7K4SC",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "AWS GovCloud (US)",
+        "locationType" : "AWS Region",
+        "usagetype" : "UGW1-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "7C9VFJ464CQAFWNJ" : {
+      "sku" : "7C9VFJ464CQAFWNJ",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "MFD4N9MJYBZRUNM5" : {
+      "sku" : "MFD4N9MJYBZRUNM5",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "9DF696Y4VYNE3TDQ" : {
+      "sku" : "9DF696Y4VYNE3TDQ",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (Ireland)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUW1-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "CR2RCFNE327QQ3KR" : {
+      "sku" : "CR2RCFNE327QQ3KR",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Sydney)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS2-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "4ATVHZGBKF2B9TBV" : {
+      "sku" : "4ATVHZGBKF2B9TBV",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US West (Oregon)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USW2-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "2723AKPAMU59VKNW" : {
+      "sku" : "2723AKPAMU59VKNW",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (London)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUW2-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "736RMK3HX9YHAAYC" : {
+      "sku" : "736RMK3HX9YHAAYC",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (Ireland)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUW1-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "PP8GRQ49FFR7BUDX" : {
+      "sku" : "PP8GRQ49FFR7BUDX",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "CWEP8NCBKCBBJTCJ" : {
+      "sku" : "CWEP8NCBKCBBJTCJ",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (Ohio)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE2-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "Z2YZMSKKUYE66W8U" : {
+      "sku" : "Z2YZMSKKUYE66W8U",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Seoul)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APN2-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "DAFVJW5ZV4W7GX7A" : {
+      "sku" : "DAFVJW5ZV4W7GX7A",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Seoul)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APN2-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "USCN6S4WSNM58NS5" : {
+      "sku" : "USCN6S4WSNM58NS5",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US West (Oregon)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USW2-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "SJD3AV4CBWMP6C26" : {
+      "sku" : "SJD3AV4CBWMP6C26",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Mumbai)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS3-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "RV84BYEMSBFQDNYY" : {
+      "sku" : "RV84BYEMSBFQDNYY",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "2ZSS2SJWBQ9S2TMW" : {
+      "sku" : "2ZSS2SJWBQ9S2TMW",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Tokyo)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APN1-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "Z3KQGYM7URWW28RE" : {
+      "sku" : "Z3KQGYM7URWW28RE",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (Frankfurt)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUC1-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "KQ4URJ2CUVNS3PXU" : {
+      "sku" : "KQ4URJ2CUVNS3PXU",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Seoul)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APN2-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "4857MJJEDUQUG78P" : {
+      "sku" : "4857MJJEDUQUG78P",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Seoul)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APN2-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "XKMNF38BK52WGHFU" : {
+      "sku" : "XKMNF38BK52WGHFU",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Tokyo)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APN1-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "6EX9JEDB998Y7UEY" : {
+      "sku" : "6EX9JEDB998Y7UEY",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (London)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUW2-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "GWNWDRB7PB2XPC49" : {
+      "sku" : "GWNWDRB7PB2XPC49",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "AWS GovCloud (US)",
+        "locationType" : "AWS Region",
+        "usagetype" : "UGW1-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "ZUN4M9RSCHK3EDYN" : {
+      "sku" : "ZUN4M9RSCHK3EDYN",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Tokyo)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APN1-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "3UQ68NH94GEJ29DQ" : {
+      "sku" : "3UQ68NH94GEJ29DQ",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US West (Oregon)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USW2-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "B87ZXAMGSPR35EUH" : {
+      "sku" : "B87ZXAMGSPR35EUH",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (Ohio)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE2-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "USVU2UR2URAPFGPH" : {
+      "sku" : "USVU2UR2URAPFGPH",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US West (Oregon)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USW2-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "8P2GVG5GGWFV35J4" : {
+      "sku" : "8P2GVG5GGWFV35J4",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Sydney)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS2-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "BS4FCYF496HWYH59" : {
+      "sku" : "BS4FCYF496HWYH59",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Tokyo)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APN1-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "Q94RGF3KNMHZUM3Z" : {
+      "sku" : "Q94RGF3KNMHZUM3Z",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (Ireland)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUW1-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "APS7CAA5XJVTFPQW" : {
+      "sku" : "APS7CAA5XJVTFPQW",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (Frankfurt)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUC1-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "WPX3ASMYMAXRPX82" : {
+      "sku" : "WPX3ASMYMAXRPX82",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "S6CGZZJMS22Y6BYG" : {
+      "sku" : "S6CGZZJMS22Y6BYG",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Mumbai)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS3-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "WZ2CKK4FQWGPURVC" : {
+      "sku" : "WZ2CKK4FQWGPURVC",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US West (Oregon)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USW2-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "2F8JUVRDQDFDR8JH" : {
+      "sku" : "2F8JUVRDQDFDR8JH",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "WYYUXJMW86VRR3W7" : {
+      "sku" : "WYYUXJMW86VRR3W7",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "AWS GovCloud (US)",
+        "locationType" : "AWS Region",
+        "usagetype" : "UGW1-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "APDXKWU25GDABGCJ" : {
+      "sku" : "APDXKWU25GDABGCJ",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (Ohio)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE2-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "FS9B45JDVNHM2RQ3" : {
+      "sku" : "FS9B45JDVNHM2RQ3",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Seoul)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APN2-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "QBAGM6B2VTXHBT5B" : {
+      "sku" : "QBAGM6B2VTXHBT5B",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Mumbai)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS3-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "2WW8WDFKJ2Z67HMU" : {
+      "sku" : "2WW8WDFKJ2Z67HMU",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (Frankfurt)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUC1-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "U7QVKACDDV9KFKQ9" : {
+      "sku" : "U7QVKACDDV9KFKQ9",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (Ireland)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUW1-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "7YFCZ6NU4KQJ8QN5" : {
+      "sku" : "7YFCZ6NU4KQJ8QN5",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Mumbai)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS3-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "SFEUND8GX6YXGBUB" : {
+      "sku" : "SFEUND8GX6YXGBUB",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (Frankfurt)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUC1-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "KMX6BTFZTXNHX8W2" : {
+      "sku" : "KMX6BTFZTXNHX8W2",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (London)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUW2-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "J9BWVVB7RR56JY82" : {
+      "sku" : "J9BWVVB7RR56JY82",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (Ohio)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE2-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "V6VBEE6463RGDJ67" : {
+      "sku" : "V6VBEE6463RGDJ67",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (Frankfurt)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUC1-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "ZWVX8BEUK97SQV5R" : {
+      "sku" : "ZWVX8BEUK97SQV5R",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "AWS GovCloud (US)",
+        "locationType" : "AWS Region",
+        "usagetype" : "UGW1-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "7HDW8UWUD7W54NFV" : {
+      "sku" : "7HDW8UWUD7W54NFV",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Mumbai)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS3-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "FKS3DYBF3B3MP752" : {
+      "sku" : "FKS3DYBF3B3MP752",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (London)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUW2-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "88HVJW32F8EF6KYG" : {
+      "sku" : "88HVJW32F8EF6KYG",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "5QN8SMXPUPK65R3M" : {
+      "sku" : "5QN8SMXPUPK65R3M",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "5JMYM9UZ9ENZNE98" : {
+      "sku" : "5JMYM9UZ9ENZNE98",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Sydney)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS2-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "27SHY5D2T5ZZ7NV3" : {
+      "sku" : "27SHY5D2T5ZZ7NV3",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "AWS GovCloud (US)",
+        "locationType" : "AWS Region",
+        "usagetype" : "UGW1-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "MKDAH8XAMKBVE2RC" : {
+      "sku" : "MKDAH8XAMKBVE2RC",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "4U76BUNJ7ZRAQV3G" : {
+      "sku" : "4U76BUNJ7ZRAQV3G",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (London)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUW2-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "RKUFK3SJ3PZRKZ46" : {
+      "sku" : "RKUFK3SJ3PZRKZ46",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "YZ7T77GAKC38F9ZM" : {
+      "sku" : "YZ7T77GAKC38F9ZM",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "EU (Ireland)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EUW1-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "9JCZEXK9RQPT9B3C" : {
+      "sku" : "9JCZEXK9RQPT9B3C",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "Asia Pacific (Sydney)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS2-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "servicename" : "AWS IoT"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "ATPK68NV2RUEFYG6" : {
+        "ATPK68NV2RUEFYG6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ATPK68NV2RUEFYG6",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "ATPK68NV2RUEFYG6.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "ATPK68NV2RUEFYG6.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.50 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ATPK68NV2RUEFYG6.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "ATPK68NV2RUEFYG6.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$1.20 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000012000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ATPK68NV2RUEFYG6.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "ATPK68NV2RUEFYG6.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$1.05 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000010500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W5PR5YXF5YC2AG9N" : {
+        "W5PR5YXF5YC2AG9N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W5PR5YXF5YC2AG9N",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "W5PR5YXF5YC2AG9N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W5PR5YXF5YC2AG9N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.248 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000002480"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4PUBUR4EWBS4RZHZ" : {
+        "4PUBUR4EWBS4RZHZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4PUBUR4EWBS4RZHZ",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "4PUBUR4EWBS4RZHZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4PUBUR4EWBS4RZHZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.25 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000012500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DW2BG8R9AST7K4SC" : {
+        "DW2BG8R9AST7K4SC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DW2BG8R9AST7K4SC",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "DW2BG8R9AST7K4SC.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "DW2BG8R9AST7K4SC.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$0.84 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000008400"
+              },
+              "appliesTo" : [ ]
+            },
+            "DW2BG8R9AST7K4SC.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "DW2BG8R9AST7K4SC.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$0.96 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000009600"
+              },
+              "appliesTo" : [ ]
+            },
+            "DW2BG8R9AST7K4SC.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "DW2BG8R9AST7K4SC.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.20 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000012000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7C9VFJ464CQAFWNJ" : {
+        "7C9VFJ464CQAFWNJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7C9VFJ464CQAFWNJ",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "7C9VFJ464CQAFWNJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7C9VFJ464CQAFWNJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MFD4N9MJYBZRUNM5" : {
+        "MFD4N9MJYBZRUNM5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MFD4N9MJYBZRUNM5",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "MFD4N9MJYBZRUNM5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MFD4N9MJYBZRUNM5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.248 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000002480"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9DF696Y4VYNE3TDQ" : {
+        "9DF696Y4VYNE3TDQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9DF696Y4VYNE3TDQ",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "9DF696Y4VYNE3TDQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9DF696Y4VYNE3TDQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CR2RCFNE327QQ3KR" : {
+        "CR2RCFNE327QQ3KR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CR2RCFNE327QQ3KR",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "CR2RCFNE327QQ3KR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CR2RCFNE327QQ3KR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.75 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000017500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4ATVHZGBKF2B9TBV" : {
+        "4ATVHZGBKF2B9TBV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4ATVHZGBKF2B9TBV",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "4ATVHZGBKF2B9TBV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4ATVHZGBKF2B9TBV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2723AKPAMU59VKNW" : {
+        "2723AKPAMU59VKNW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2723AKPAMU59VKNW",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "2723AKPAMU59VKNW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2723AKPAMU59VKNW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.18 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000001800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "736RMK3HX9YHAAYC" : {
+        "736RMK3HX9YHAAYC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "736RMK3HX9YHAAYC",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "736RMK3HX9YHAAYC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "736RMK3HX9YHAAYC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PP8GRQ49FFR7BUDX" : {
+        "PP8GRQ49FFR7BUDX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PP8GRQ49FFR7BUDX",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "PP8GRQ49FFR7BUDX.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "PP8GRQ49FFR7BUDX.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$0.70 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000007000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PP8GRQ49FFR7BUDX.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "PP8GRQ49FFR7BUDX.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$0.80 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000008000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PP8GRQ49FFR7BUDX.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "PP8GRQ49FFR7BUDX.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.00 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CWEP8NCBKCBBJTCJ" : {
+        "CWEP8NCBKCBBJTCJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CWEP8NCBKCBBJTCJ",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "CWEP8NCBKCBBJTCJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CWEP8NCBKCBBJTCJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z2YZMSKKUYE66W8U" : {
+        "Z2YZMSKKUYE66W8U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z2YZMSKKUYE66W8U",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z2YZMSKKUYE66W8U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z2YZMSKKUYE66W8U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.096 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000960"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DAFVJW5ZV4W7GX7A" : {
+        "DAFVJW5ZV4W7GX7A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DAFVJW5ZV4W7GX7A",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "DAFVJW5ZV4W7GX7A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DAFVJW5ZV4W7GX7A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.18 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000001800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "USCN6S4WSNM58NS5" : {
+        "USCN6S4WSNM58NS5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "USCN6S4WSNM58NS5",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "USCN6S4WSNM58NS5.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "USCN6S4WSNM58NS5.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.00 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            },
+            "USCN6S4WSNM58NS5.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "USCN6S4WSNM58NS5.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$0.70 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000007000"
+              },
+              "appliesTo" : [ ]
+            },
+            "USCN6S4WSNM58NS5.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "USCN6S4WSNM58NS5.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$0.80 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000008000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SJD3AV4CBWMP6C26" : {
+        "SJD3AV4CBWMP6C26.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SJD3AV4CBWMP6C26",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "SJD3AV4CBWMP6C26.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SJD3AV4CBWMP6C26.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.158 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000001580"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RV84BYEMSBFQDNYY" : {
+        "RV84BYEMSBFQDNYY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RV84BYEMSBFQDNYY",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "RV84BYEMSBFQDNYY.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "RV84BYEMSBFQDNYY.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$1.32 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000013200"
+              },
+              "appliesTo" : [ ]
+            },
+            "RV84BYEMSBFQDNYY.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "RV84BYEMSBFQDNYY.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.65 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000016500"
+              },
+              "appliesTo" : [ ]
+            },
+            "RV84BYEMSBFQDNYY.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "RV84BYEMSBFQDNYY.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$1.16 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000011600"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2ZSS2SJWBQ9S2TMW" : {
+        "2ZSS2SJWBQ9S2TMW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2ZSS2SJWBQ9S2TMW",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "2ZSS2SJWBQ9S2TMW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2ZSS2SJWBQ9S2TMW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.75 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000017500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z3KQGYM7URWW28RE" : {
+        "Z3KQGYM7URWW28RE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z3KQGYM7URWW28RE",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z3KQGYM7URWW28RE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z3KQGYM7URWW28RE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KQ4URJ2CUVNS3PXU" : {
+        "KQ4URJ2CUVNS3PXU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KQ4URJ2CUVNS3PXU",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "KQ4URJ2CUVNS3PXU.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "KQ4URJ2CUVNS3PXU.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.20 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000012000"
+              },
+              "appliesTo" : [ ]
+            },
+            "KQ4URJ2CUVNS3PXU.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "KQ4URJ2CUVNS3PXU.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$0.96 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000009600"
+              },
+              "appliesTo" : [ ]
+            },
+            "KQ4URJ2CUVNS3PXU.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "KQ4URJ2CUVNS3PXU.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$0.84 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000008400"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4857MJJEDUQUG78P" : {
+        "4857MJJEDUQUG78P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4857MJJEDUQUG78P",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "4857MJJEDUQUG78P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4857MJJEDUQUG78P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.18 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000001800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XKMNF38BK52WGHFU" : {
+        "XKMNF38BK52WGHFU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XKMNF38BK52WGHFU",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "XKMNF38BK52WGHFU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XKMNF38BK52WGHFU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.225 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000002250"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6EX9JEDB998Y7UEY" : {
+        "6EX9JEDB998Y7UEY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6EX9JEDB998Y7UEY",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "6EX9JEDB998Y7UEY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6EX9JEDB998Y7UEY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.096 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000960"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GWNWDRB7PB2XPC49" : {
+        "GWNWDRB7PB2XPC49.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GWNWDRB7PB2XPC49",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "GWNWDRB7PB2XPC49.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GWNWDRB7PB2XPC49.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZUN4M9RSCHK3EDYN" : {
+        "ZUN4M9RSCHK3EDYN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZUN4M9RSCHK3EDYN",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZUN4M9RSCHK3EDYN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZUN4M9RSCHK3EDYN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.12 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000001200"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3UQ68NH94GEJ29DQ" : {
+        "3UQ68NH94GEJ29DQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3UQ68NH94GEJ29DQ",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "3UQ68NH94GEJ29DQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3UQ68NH94GEJ29DQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B87ZXAMGSPR35EUH" : {
+        "B87ZXAMGSPR35EUH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B87ZXAMGSPR35EUH",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "B87ZXAMGSPR35EUH.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "B87ZXAMGSPR35EUH.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$0.70 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000007000"
+              },
+              "appliesTo" : [ ]
+            },
+            "B87ZXAMGSPR35EUH.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "B87ZXAMGSPR35EUH.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.00 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            },
+            "B87ZXAMGSPR35EUH.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "B87ZXAMGSPR35EUH.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$0.80 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000008000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "USVU2UR2URAPFGPH" : {
+        "USVU2UR2URAPFGPH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "USVU2UR2URAPFGPH",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "USVU2UR2URAPFGPH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "USVU2UR2URAPFGPH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8P2GVG5GGWFV35J4" : {
+        "8P2GVG5GGWFV35J4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8P2GVG5GGWFV35J4",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "8P2GVG5GGWFV35J4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8P2GVG5GGWFV35J4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.248 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000002480"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BS4FCYF496HWYH59" : {
+        "BS4FCYF496HWYH59.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BS4FCYF496HWYH59",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "BS4FCYF496HWYH59.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BS4FCYF496HWYH59.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.225 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000002250"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q94RGF3KNMHZUM3Z" : {
+        "Q94RGF3KNMHZUM3Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q94RGF3KNMHZUM3Z",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q94RGF3KNMHZUM3Z.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "Q94RGF3KNMHZUM3Z.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$0.80 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000008000"
+              },
+              "appliesTo" : [ ]
+            },
+            "Q94RGF3KNMHZUM3Z.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "Q94RGF3KNMHZUM3Z.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$0.70 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000007000"
+              },
+              "appliesTo" : [ ]
+            },
+            "Q94RGF3KNMHZUM3Z.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "Q94RGF3KNMHZUM3Z.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.00 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "APS7CAA5XJVTFPQW" : {
+        "APS7CAA5XJVTFPQW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "APS7CAA5XJVTFPQW",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "APS7CAA5XJVTFPQW.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "APS7CAA5XJVTFPQW.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$0.96 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000009600"
+              },
+              "appliesTo" : [ ]
+            },
+            "APS7CAA5XJVTFPQW.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "APS7CAA5XJVTFPQW.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$0.84 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000008400"
+              },
+              "appliesTo" : [ ]
+            },
+            "APS7CAA5XJVTFPQW.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "APS7CAA5XJVTFPQW.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.20 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000012000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WPX3ASMYMAXRPX82" : {
+        "WPX3ASMYMAXRPX82.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WPX3ASMYMAXRPX82",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "WPX3ASMYMAXRPX82.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WPX3ASMYMAXRPX82.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S6CGZZJMS22Y6BYG" : {
+        "S6CGZZJMS22Y6BYG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S6CGZZJMS22Y6BYG",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "S6CGZZJMS22Y6BYG.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "S6CGZZJMS22Y6BYG.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$0.84 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000008400"
+              },
+              "appliesTo" : [ ]
+            },
+            "S6CGZZJMS22Y6BYG.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "S6CGZZJMS22Y6BYG.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$0.74 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000007400"
+              },
+              "appliesTo" : [ ]
+            },
+            "S6CGZZJMS22Y6BYG.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "S6CGZZJMS22Y6BYG.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.05 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000010500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WZ2CKK4FQWGPURVC" : {
+        "WZ2CKK4FQWGPURVC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WZ2CKK4FQWGPURVC",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "WZ2CKK4FQWGPURVC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WZ2CKK4FQWGPURVC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.25 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000012500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2F8JUVRDQDFDR8JH" : {
+        "2F8JUVRDQDFDR8JH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2F8JUVRDQDFDR8JH",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "2F8JUVRDQDFDR8JH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2F8JUVRDQDFDR8JH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.25 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000012500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WYYUXJMW86VRR3W7" : {
+        "WYYUXJMW86VRR3W7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WYYUXJMW86VRR3W7",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "WYYUXJMW86VRR3W7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WYYUXJMW86VRR3W7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000001000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "APDXKWU25GDABGCJ" : {
+        "APDXKWU25GDABGCJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "APDXKWU25GDABGCJ",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "APDXKWU25GDABGCJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "APDXKWU25GDABGCJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FS9B45JDVNHM2RQ3" : {
+        "FS9B45JDVNHM2RQ3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FS9B45JDVNHM2RQ3",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "FS9B45JDVNHM2RQ3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FS9B45JDVNHM2RQ3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QBAGM6B2VTXHBT5B" : {
+        "QBAGM6B2VTXHBT5B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QBAGM6B2VTXHBT5B",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "QBAGM6B2VTXHBT5B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QBAGM6B2VTXHBT5B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.31 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000013100"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2WW8WDFKJ2Z67HMU" : {
+        "2WW8WDFKJ2Z67HMU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2WW8WDFKJ2Z67HMU",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "2WW8WDFKJ2Z67HMU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2WW8WDFKJ2Z67HMU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.18 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000001800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U7QVKACDDV9KFKQ9" : {
+        "U7QVKACDDV9KFKQ9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U7QVKACDDV9KFKQ9",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "U7QVKACDDV9KFKQ9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U7QVKACDDV9KFKQ9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7YFCZ6NU4KQJ8QN5" : {
+        "7YFCZ6NU4KQJ8QN5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7YFCZ6NU4KQJ8QN5",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "7YFCZ6NU4KQJ8QN5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7YFCZ6NU4KQJ8QN5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.092 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000920"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SFEUND8GX6YXGBUB" : {
+        "SFEUND8GX6YXGBUB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SFEUND8GX6YXGBUB",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "SFEUND8GX6YXGBUB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SFEUND8GX6YXGBUB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.18 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000001800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KMX6BTFZTXNHX8W2" : {
+        "KMX6BTFZTXNHX8W2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KMX6BTFZTXNHX8W2",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "KMX6BTFZTXNHX8W2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KMX6BTFZTXNHX8W2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.18 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000001800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J9BWVVB7RR56JY82" : {
+        "J9BWVVB7RR56JY82.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J9BWVVB7RR56JY82",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "J9BWVVB7RR56JY82.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J9BWVVB7RR56JY82.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V6VBEE6463RGDJ67" : {
+        "V6VBEE6463RGDJ67.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V6VBEE6463RGDJ67",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "V6VBEE6463RGDJ67.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V6VBEE6463RGDJ67.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.096 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000960"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZWVX8BEUK97SQV5R" : {
+        "ZWVX8BEUK97SQV5R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZWVX8BEUK97SQV5R",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZWVX8BEUK97SQV5R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZWVX8BEUK97SQV5R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.18 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000001800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7HDW8UWUD7W54NFV" : {
+        "7HDW8UWUD7W54NFV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7HDW8UWUD7W54NFV",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "7HDW8UWUD7W54NFV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7HDW8UWUD7W54NFV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.158 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000001580"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FKS3DYBF3B3MP752" : {
+        "FKS3DYBF3B3MP752.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FKS3DYBF3B3MP752",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "FKS3DYBF3B3MP752.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FKS3DYBF3B3MP752.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "88HVJW32F8EF6KYG" : {
+        "88HVJW32F8EF6KYG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "88HVJW32F8EF6KYG",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "88HVJW32F8EF6KYG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "88HVJW32F8EF6KYG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5QN8SMXPUPK65R3M" : {
+        "5QN8SMXPUPK65R3M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5QN8SMXPUPK65R3M",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "5QN8SMXPUPK65R3M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5QN8SMXPUPK65R3M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.132 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000001320"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5JMYM9UZ9ENZNE98" : {
+        "5JMYM9UZ9ENZNE98.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5JMYM9UZ9ENZNE98",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "5JMYM9UZ9ENZNE98.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5JMYM9UZ9ENZNE98.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.132 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000001320"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "27SHY5D2T5ZZ7NV3" : {
+        "27SHY5D2T5ZZ7NV3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "27SHY5D2T5ZZ7NV3",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "27SHY5D2T5ZZ7NV3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "27SHY5D2T5ZZ7NV3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.18 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000001800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MKDAH8XAMKBVE2RC" : {
+        "MKDAH8XAMKBVE2RC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MKDAH8XAMKBVE2RC",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "MKDAH8XAMKBVE2RC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MKDAH8XAMKBVE2RC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.88 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000018800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4U76BUNJ7ZRAQV3G" : {
+        "4U76BUNJ7ZRAQV3G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4U76BUNJ7ZRAQV3G",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "4U76BUNJ7ZRAQV3G.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "4U76BUNJ7ZRAQV3G.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$0.84 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000008400"
+              },
+              "appliesTo" : [ ]
+            },
+            "4U76BUNJ7ZRAQV3G.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "4U76BUNJ7ZRAQV3G.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$0.96 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000009600"
+              },
+              "appliesTo" : [ ]
+            },
+            "4U76BUNJ7ZRAQV3G.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "4U76BUNJ7ZRAQV3G.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.20 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000012000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RKUFK3SJ3PZRKZ46" : {
+        "RKUFK3SJ3PZRKZ46.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RKUFK3SJ3PZRKZ46",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "RKUFK3SJ3PZRKZ46.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RKUFK3SJ3PZRKZ46.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.248 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000002480"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YZ7T77GAKC38F9ZM" : {
+        "YZ7T77GAKC38F9ZM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YZ7T77GAKC38F9ZM",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "YZ7T77GAKC38F9ZM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YZ7T77GAKC38F9ZM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.25 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000012500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9JCZEXK9RQPT9B3C" : {
+        "9JCZEXK9RQPT9B3C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9JCZEXK9RQPT9B3C",
+          "effectiveDate" : "2018-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "9JCZEXK9RQPT9B3C.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "9JCZEXK9RQPT9B3C.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$1.32 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000013200"
+              },
+              "appliesTo" : [ ]
+            },
+            "9JCZEXK9RQPT9B3C.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "9JCZEXK9RQPT9B3C.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$1.16 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000011600"
+              },
+              "appliesTo" : [ ]
+            },
+            "9JCZEXK9RQPT9B3C.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "9JCZEXK9RQPT9B3C.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.65 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000016500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  }
+}
